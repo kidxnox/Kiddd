@@ -14,7 +14,7 @@
    Web(Exploitation, Crawling, ExploitFrameworks)
   ],
   Projects : [ 
-    vision, iauth, fedsearch
+    Bypass FreeFire, Panel FreeFire,
   ]
   
 ```
