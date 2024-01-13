@@ -1,5 +1,5 @@
 ```bash
->> neofetch
+>> Kidddddd
 ```
 
 <img align="left" src="https://cdn.discordapp.com/attachments/1056054502593155165/1056816590198419489/matching_icons_.jpg" width="189"/>
